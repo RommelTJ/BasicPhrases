@@ -22,7 +22,7 @@
             app:layout_constraintTop_toTopOf="parent">
 
         <Button
-                android:text="DO YOU\nSPEAK ENGLISH?"
+                android:text="@string/do_you_speak_english"
                 android:id="@+id/button1"
                 android:layout_gravity="fill"
                 android:layout_rowWeight="1"
@@ -32,7 +32,7 @@
         />
 
         <Button
-                android:text="GOOD EVENING"
+                android:text="@string/good_evening"
                 android:id="@+id/button2"
                 android:layout_gravity="fill"
                 android:layout_rowWeight="1"
@@ -42,7 +42,7 @@
         />
 
         <Button
-                android:text="HELLO"
+                android:text="@string/hello"
                 android:id="@+id/button3"
                 android:layout_gravity="fill"
                 android:layout_rowWeight="1"
@@ -52,7 +52,7 @@
         />
 
         <Button
-                android:text="HOW ARE YOU?"
+                android:text="@string/how_are_you"
                 android:id="@+id/button4"
                 android:layout_gravity="fill"
                 android:layout_rowWeight="1"
@@ -62,7 +62,7 @@
         />
 
         <Button
-                android:text="I LIVE IN..."
+                android:text="@string/i_live_in"
                 android:id="@+id/button5"
                 android:layout_gravity="fill"
                 android:layout_rowWeight="1"
@@ -72,7 +72,7 @@
         />
 
         <Button
-                android:text="MY NAME IS..."
+                android:text="@string/my_name_is"
                 android:id="@+id/button6"
                 android:layout_gravity="fill"
                 android:layout_rowWeight="1"
@@ -82,7 +82,7 @@
         />
 
         <Button
-                android:text="PLEASE"
+                android:text="@string/please"
                 android:id="@+id/button7"
                 android:layout_gravity="fill"
                 android:layout_rowWeight="1"
@@ -92,7 +92,7 @@
         />
 
         <Button
-                android:text="WELCOME"
+                android:text="@string/welcome"
                 android:id="@+id/button"
                 android:layout_gravity="fill"
                 android:layout_rowWeight="1"
